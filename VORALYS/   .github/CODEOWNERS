@@ -21,13 +21,13 @@
 /docs/agents/*/*_WORKFLOW.md        @david
 /docs/agents/*/*_DEPENDENCIES.md    @david
 
-/data/                              @ahiko
-/docs/agents/*/*_RAG_REQUIREMENTS.md @ahiko
-/docs/agents/*/*_DATA_REQUIREMENTS.md @ahiko
-/docs/agents/*/*_KG_REQUIREMENTS.md @ahiko
+/data/                              @lrdulrich
+/docs/agents/*/*_RAG_REQUIREMENTS.md @lrdulrich
+/docs/agents/*/*_DATA_REQUIREMENTS.md @lrdulrich
+/docs/agents/*/*_KG_REQUIREMENTS.md @lrdulrich
 
-/docs/agents/*/*_DOMAIN_RULES.md    @patrick
-/docs/agents/*/*_COMPLIANCE_REVIEW.md @patrick
+/docs/agents/*/*_DOMAIN_RULES.md    @lrdulrich
+/docs/agents/*/*_COMPLIANCE_REVIEW.md @lrdulrich
 
 /backend/                           @dev-team
 /infra/                             @dev-team
