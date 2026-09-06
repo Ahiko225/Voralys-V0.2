@@ -1,0 +1,33 @@
+# CODEOWNERS — VORALYS
+# Remplacer @xxx par les vrais handles GitHub avant activation.
+
+/docs/agents/AGENT_REGISTRY.md      @dosso
+/docs/agents/AGENT_MASTER_TEMPLATE.md @dosso
+/docs/decisions/                    @dosso
+
+/docs/agents/*/*_BEHAVIOR.md        @kevin
+/docs/agents/*/*_PROMPT.md          @kevin
+/docs/agents/*/*_TOOL_POLICY.md     @kevin
+
+/langflow/                          @david
+/docs/agents/*/*_WORKFLOW.md        @david
+/docs/agents/*/*_DEPENDENCIES.md    @david
+
+/data/                              @ahiko
+/docs/agents/*/*_RAG_REQUIREMENTS.md @ahiko
+/docs/agents/*/*_DATA_REQUIREMENTS.md @ahiko
+/docs/agents/*/*_KG_REQUIREMENTS.md @ahiko
+
+/docs/agents/*/*_DOMAIN_RULES.md    @patrick
+/docs/agents/*/*_COMPLIANCE_REVIEW.md @patrick
+
+/backend/                           @dev-team
+/infra/                             @dev-team
+/.github/workflows/                 @dev-team
+/frontend/                          @dev-team
+/n8n/                               @dev-team
+
+/docs/security/                     @cyber-team
+
+/tests/                             @qa-team
+/docs/agents/*/*_TESTS.md           @qa-team
